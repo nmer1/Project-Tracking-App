@@ -10,8 +10,11 @@ A Python-based Project Tracking App for managing tasks, pending items, and gener
 
  # Installation:
  git clone https://github.com/nmer1/Project-Tracking-App.git
+ 
  cd Project-Tracking-App
+ 
  pip install -r requirements.txt
+ 
  python order13.py
 
  # Note: The in-app pie chart report is not fully clear and may require further improvement. However, the PDF report generation works properly.
